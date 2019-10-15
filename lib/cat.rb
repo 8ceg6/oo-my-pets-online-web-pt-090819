@@ -11,5 +11,5 @@ class Cat
       @@all << self
  end
 
-
+    
 end
