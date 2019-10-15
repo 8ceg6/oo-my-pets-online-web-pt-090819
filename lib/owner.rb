@@ -8,6 +8,6 @@ class Owner
     end
 
     def says_species
-    
+    "I am a #{species}."
     end
 end
