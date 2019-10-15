@@ -46,7 +46,7 @@ class Owner
     end
     
     def feed_cats
-      cats.each{
+      cats.each{|c| c.mood = "happy"}
 end
 
 
