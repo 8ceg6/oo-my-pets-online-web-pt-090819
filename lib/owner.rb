@@ -60,6 +60,8 @@ class Owner
       p.owner = nil
     end
   end
+  
+  def list_pets
 end
 
 
